@@ -8,8 +8,9 @@ Aplikasi yang saya buat ini adalah aplikasi android sederhana berbasis Jetpact C
 - Fitur Toggle untuk mengubah tema menjadi mode gelap dan mode terang
 
 **Cara Menjalankan**
-1. Copas repository ini
+1. download repository ini
 2. Buka folder menggunakan Android Studio
 3. Aktifkan mode pengembang di HP android 
 4. Sambungkan HP android atau gunakan emulator
+
 4. Klik ikon segitiga hijau untuk me run 
