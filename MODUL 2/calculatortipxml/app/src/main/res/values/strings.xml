@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="tip_percentage">Tip Percentage</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="tip_amount_default">Tip Amount: $0.00</string>
+    <string name="tip_amount_result">Tip Amount: %1$s</string>
+    <string name="_15" formatted="false">15%</string>
+
+    <string-array name="tip_options">
+        <item formatted="false">15%</item>
+        <item formatted="false">18%</item>
+        <item formatted="false">20%</item>
+    </string-array>
+</resources>

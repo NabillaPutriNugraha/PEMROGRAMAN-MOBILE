@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColor">#37474F</color>
+    <color name="boxBackgroundColor">#EAE6EB</color>
+    <color name="textColorTA">#001B2A</color>
+</resources>
