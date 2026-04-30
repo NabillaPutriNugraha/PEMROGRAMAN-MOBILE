@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Apple app xml</string>
+    <string name="iphone_15_pro">iPhone 15 Pro</string>
+    <string name="_2023">2023</string>
+    <string name="nama_produk">Nama Produk</string>
+    <string name="tahun_rilis">Tahun Rilis</string>
+    <string name="spesifikasi">Spesifikasi:</string>
+    <string name="detail_spek_di_sini">Detail spek di sini</string>
+    <string name="buka_web_resmi">Buka Web Resmi</string>
+    <string name="detail">Detail</string>
+    <string name="web">Web</string>
+</resources>
