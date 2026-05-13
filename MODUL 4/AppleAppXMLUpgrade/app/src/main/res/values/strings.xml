@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppleAppXMLUpgrade</string>
+    <string name="detail">DETAIL</string>
+    <string name="web">WEB</string>
+    <string name="visit_official_website">Visit Official Website</string>
+    <string name="featured_products">Featured Products</string>
+    <string name="all_models">All Models</string>
+    <string name="official_web">Official Web</string>
+</resources>
